@@ -10,7 +10,7 @@ The goal of `ember-text-placeholder` is to provide a mechanism for placing place
 
 ### `{{text-placeholder}}`
 
-The default usage is `{{text-placeholder}}`. This uses the unicode [Upper Half Block](http://unicode-table.com/en/2580/) (▀) and a [Zero Width Space](http://unicode-table.com/en/200B/) to create a solid line that text wraps.
+The default usage is `{{text-placeholder}}`. This uses the unicode [Upper Half Block](https://symbl.cc/en/2580/) (▀) and a [Zero Width Space](http://unicode-table.com/en/200B/) to create a solid line that text wraps.
 
 `{{text-placeholder}}` supports a `width` property which may be a string [short|medium|long], or a number.
 
